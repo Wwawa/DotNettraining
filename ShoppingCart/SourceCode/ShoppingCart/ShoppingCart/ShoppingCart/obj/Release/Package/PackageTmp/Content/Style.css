@@ -1,0 +1,38 @@
+﻿
+h3 {
+    color: #c0ffe0;
+    text-align: center;
+    font-size: 39px;
+    background-color: lightpink;
+}
+
+form {
+    margin: 200px;
+    padding: 100px;
+    border: 22px solid indigo;
+    width: 300px;
+    background: lightpink;
+}
+
+.Button {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.Password {
+    padding-top: 1em;
+    margin: 11px;
+    padding: 1px;
+}
+
+.Username {
+    padding-top: 2em;
+    margin: 11px;
+    padding: 1px;
+}
+
+.status {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}

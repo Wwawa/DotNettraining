@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart", "ShoppingCart\ShoppingCart.csproj", "{12F1C545-1F76-46AD-8A8B-1E7C04A57D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JqueryJavascript", "JqueryJavascript\JqueryJavascript.csproj", "{A2164677-FCDF-4463-AEFD-24D26CF3F61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F1C545-1F76-46AD-8A8B-1E7C04A57D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F1C545-1F76-46AD-8A8B-1E7C04A57D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F1C545-1F76-46AD-8A8B-1E7C04A57D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F1C545-1F76-46AD-8A8B-1E7C04A57D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2164677-FCDF-4463-AEFD-24D26CF3F61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2164677-FCDF-4463-AEFD-24D26CF3F61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2164677-FCDF-4463-AEFD-24D26CF3F61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2164677-FCDF-4463-AEFD-24D26CF3F61B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
